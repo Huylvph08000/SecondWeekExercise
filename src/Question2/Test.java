@@ -1,4 +1,6 @@
-package Exercise2;
+package Question2;
+
+import Question2.Rectangle;
 
 public class Test {
     public static void main(String[] args) {

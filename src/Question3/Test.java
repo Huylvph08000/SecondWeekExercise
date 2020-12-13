@@ -1,4 +1,6 @@
-package Exercise3;
+package Question3;
+
+import Question3.Fan;
 
 public class Test {
     public static void main(String[] args) {

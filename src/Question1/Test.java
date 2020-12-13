@@ -1,4 +1,6 @@
-package Exercise1;
+package Question1;
+
+import Question1.Rectangle;
 
 import java.util.Scanner;
 

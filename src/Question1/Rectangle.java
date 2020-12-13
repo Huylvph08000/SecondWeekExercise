@@ -1,4 +1,4 @@
-package Exercise1;
+package Question1;
 
 public class Rectangle {
     double width, height;
