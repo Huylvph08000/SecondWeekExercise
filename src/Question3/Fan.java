@@ -1,4 +1,4 @@
-package Exercise3;
+package Question3;
 
 public class Fan {
     private static final int SLOW = 1;

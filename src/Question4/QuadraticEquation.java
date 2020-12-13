@@ -1,4 +1,4 @@
-package Exercise4;
+package Question4;
 
 public class QuadraticEquation {
     private float a, b, c;

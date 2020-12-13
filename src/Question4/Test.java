@@ -1,4 +1,6 @@
-package Exercise4;
+package Question4;
+
+import Question4.QuadraticEquation;
 
 import java.util.Scanner;
 
@@ -12,8 +14,8 @@ public class Test {
         System.out.print("Enter c: ");
         float c = Float.parseFloat(sc.nextLine());
         QuadraticEquation quadraticEquation = new QuadraticEquation(a, c, c);
-        System.out.println(quadraticEquation);
-        System.out.println(quadraticEquation.getDiscriminant());
+//        System.out.println(quadraticEquation);
+//        System.out.println(quadraticEquation.getDiscriminant());
         if (a == 0) {
             if (b == 0) {
                 System.out.println("The equation has no roots");
